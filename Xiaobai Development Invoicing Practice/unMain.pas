@@ -46,6 +46,7 @@ type
     ActionList1: TActionList;
     actClose: TAction;
     ImageList1: TImageList;
+    Button2: TButton;
     procedure actCloseExecute(Sender: TObject);
   private
     { Private declarations }
