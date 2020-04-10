@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/09 10:26:10.000.143,=E:\code\delphi\Unit1.pas</Transaction>
+    <Transaction>2020/04/09 10:26:53.000.473,E:\code\delphi\Unit1.dfm=E:\code\delphi\小白开发进销存练习\unMain.dfm</Transaction>
+    <Transaction>2020/04/09 10:26:53.000.473,E:\code\delphi\Unit1.pas=E:\code\delphi\小白开发进销存练习\unMain.pas</Transaction>
+    <Transaction>2020/04/09 10:26:58.000.456,E:\code\delphi\Project1.dproj=E:\code\delphi\小白开发进销存练习\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
